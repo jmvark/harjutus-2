@@ -18,5 +18,18 @@
     <?php echo "6" / "1.5"; ?>
     <br>
     <?php echo "34.1" * "2"; ?>
+    <br>
+    <?php // Mandariinid on päris head ?>
+	<?php # miks jõehobu on hobune? ?>
+	<?php
+    /*
+        kaelkirjakud 
+        on pika 
+        kaelaga
+    */
+	?>
+	<?php
+    echo 5 / 4;
+	?>
 </body>
 </html>
