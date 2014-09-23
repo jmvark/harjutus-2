@@ -10,5 +10,7 @@
     <?php echo "sinu tekst"; ?>
     <br>
     <?php echo "Sinu teksti esimene pool" . " ja sinu teksti teine pool."; ?>
+    <?php echo "10" + "30"; ?>
+
 </body>
 </html>
