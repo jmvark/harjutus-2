@@ -31,5 +31,14 @@
 	<?php
     echo 5 / 4;
 	?>
+	<br>
+	<?php
+    $var1 = 10;
+    echo $var1;
+    echo "<br>";
+    $var1 = 11;
+    echo $var1;
+    echo "<br>";
+	?>
 </body>
 </html>
