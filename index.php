@@ -8,5 +8,7 @@
 <body>
     <h1>See dokument on minu esimene katsetus PHP-ga</h1>
     <?php echo "sinu tekst"; ?>
+    <br>
+    <?php echo "Sinu teksti esimene pool" . " ja sinu teksti teine pool."; ?>
 </body>
 </html>
