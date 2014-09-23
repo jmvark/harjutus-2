@@ -7,6 +7,6 @@
 
 <body>
     <h1>See dokument on minu esimene katsetus PHP-ga</h1>
-    <? php echo "sinu tekst"; ?>
+    <? php echo "sinu tekst"; ?>dsfsdf
 </body>
 </html>
