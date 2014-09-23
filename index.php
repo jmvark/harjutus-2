@@ -10,7 +10,13 @@
     <?php echo "sinu tekst"; ?>
     <br>
     <?php echo "Sinu teksti esimene pool" . " ja sinu teksti teine pool."; ?>
+    <br>
     <?php echo "10" + "30"; ?>
-
+   	<br>
+    <?php echo "20" - "44"; ?>
+    <br>
+    <?php echo "6" / "1.5"; ?>
+    <br>
+    <?php echo "34.1" * "2"; ?>
 </body>
 </html>
